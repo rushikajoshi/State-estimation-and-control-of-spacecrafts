@@ -1,5 +1,5 @@
 # State-estimation-and-control-of-spacecrafts
-Enhancing the performance of attitude control of spacecraft using state estimation
+## Enhancing the performance of attitude control of spacecraft using state estimation
 The specified problem is of practical consideration when real attitude and angular
 velocity sensors are applied to the spacecraft attitude control system. The angular
 velocity sensors (rate gyros) have unknown biases and very small measurement noises.
