@@ -10,3 +10,4 @@ system without any treatments. In practical applications, a state estimator can 
 measurement noise of the attitude sensor. The performance of the attitude controller is improved by applying the state estimator.
 
 ## Simulation
+![](https://github.com/rushikajoshi/State-estimation-and-control-of-spacecrafts/blob/main/Results/GIF.gif)
