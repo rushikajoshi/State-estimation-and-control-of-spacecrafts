@@ -9,3 +9,4 @@ controlled spacecraft when these sensors are directly applied to the attitude co
 system without any treatments. In practical applications, a state estimator can be applied to estimate the unknown bias of the rate gyro and filter out the
 measurement noise of the attitude sensor. The performance of the attitude controller is improved by applying the state estimator.
 
+## Simulation
