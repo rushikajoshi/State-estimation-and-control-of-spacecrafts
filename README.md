@@ -11,3 +11,4 @@ measurement noise of the attitude sensor. The performance of the attitude contro
 
 ## Simulation
 ![](https://github.com/rushikajoshi/State-estimation-and-control-of-spacecrafts/blob/main/Results/GIF.gif)
+![GIF](https://user-images.githubusercontent.com/64770588/216806338-61281669-eb98-45e8-a3c4-0dc38dd1e8ab.gif)
