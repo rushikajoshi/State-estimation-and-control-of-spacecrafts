@@ -16,10 +16,10 @@ As shown in the graph below, a noisy output is observed from the sensors
 that result in inaccurate control. The spacecraft oscillates between the practically
 undesirable values.
 
-<img src="https://user-images.githubusercontent.com/64770588/216806599-29e8bfa2-6ade-4ea3-8401-e87c64274282.png" width=65% height=65%>
+<img src="https://user-images.githubusercontent.com/64770588/216806599-29e8bfa2-6ade-4ea3-8401-e87c64274282.png" width=50% height=50%>
 
 The graph below contains attitude values with noise and bias from the sensors vs. the
 filtered values after using the Kalman Filter. Therefore, state estimation using a filter
 removes the noise and bias and enhances the performance of the attitude controller.
 
-<img src="https://user-images.githubusercontent.com/64770588/216806631-674de9d4-95ee-4d53-b59b-3fddca01a737.png" width=65% height=65%>
+<img src="https://user-images.githubusercontent.com/64770588/216806631-674de9d4-95ee-4d53-b59b-3fddca01a737.png" width=50% height=50%>
